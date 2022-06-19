@@ -196,7 +196,8 @@ Introduction
 }
 .intro_wrapper {
   width: 90%;
-  
+  height: 60vh;
+  height: auto;
   display: flex;
   align-items: center;
   justify-content: space-evenly;
@@ -398,7 +399,6 @@ footer {
   }
   .intro_wrapper {
     display: block;
-    height: auto;
   }
   .intro_wrapper_left {
   width: 75%;
