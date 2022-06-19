@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+body {
+  font-size: 18px;
+  line-height: 1;
+  letter-spacing: 5%;
+  word-break: break-all;
+  color: #555;
+  font-family: 'M PLUS 1p', sans-serif ,
+  'Noto Sans JP', sans-serif;
+}
+li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color: #333;
+}
+/* ===================
+header
+======================*/
+.header_inner {
+  width: 90%;
+  height: 15vh;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header_logo  {
+  width: 20%;
+}
+.header_logo img {
+  1
+}
+.header_list {
+  display: flex;
+}
+.header_list li {
+  margin-left: 1.8rem;}

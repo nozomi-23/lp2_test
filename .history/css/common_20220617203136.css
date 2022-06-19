@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+body {
+  font-size: 18px;
+  line-height: 1;
+  letter-spacing: 5%;
+  word-break: break-all;
+  color: #555;
+  font-family: 'M PLUS 1p', sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+/* ===================
+header
+======================*/
