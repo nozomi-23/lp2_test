@@ -427,7 +427,7 @@ footer {
     width: 35%;
   }
   .footer_logo_wrapper {
-    margin-left: auto;
+    margin: 0 auto;
     display: block;
     width: 5%;
   } 
@@ -499,8 +499,8 @@ footer {
   body {
     font-size: 16px;
   }
-  header .header_nav ul li {
-    margin: 20% 0;
+  .header_nav ul li {
+    m20%0
   }
   .header_logo img {
     width: 50%;

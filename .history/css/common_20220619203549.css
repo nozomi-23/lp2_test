@@ -427,7 +427,7 @@ footer {
     width: 35%;
   }
   .footer_logo_wrapper {
-    margin-left: auto;
+    margin: 0 auto;
     display: block;
     width: 5%;
   } 
